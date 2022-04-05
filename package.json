@@ -1,0 +1,19 @@
+{
+  "name": "overview-app",
+  "version": "1.0.0",
+  "description": "my first build",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bespacefor/NodeJS-npm-task.git"
+  },
+  "author": "Sviatlana Lukyantsava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bespacefor/NodeJS-npm-task/issues"
+  },
+  "homepage": "https://github.com/bespacefor/NodeJS-npm-task#readme"
+}
