@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/bespacefor/NodeJS-npm-task#readme",
   "dependencies": {
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
   }
 }
