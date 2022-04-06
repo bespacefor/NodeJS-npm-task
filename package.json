@@ -4,7 +4,7 @@
   "description": "my first build",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bespacefor/NodeJS-npm-task/issues"
   },
-  "homepage": "https://github.com/bespacefor/NodeJS-npm-task#readme"
+  "homepage": "https://github.com/bespacefor/NodeJS-npm-task#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
